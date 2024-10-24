@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HelloVistulaJar" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/HelloVistula_jar/HelloVistula.jar" />
+    <option name="WORKING_DIRECTORY" value="C:\Users\Natalia\HelloVistula" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="BuildArtifacts" enabled="true">
+        <artifact name="HelloVistula:jar" />
+      </option>
+    </method>
+  </configuration>
+</component>
